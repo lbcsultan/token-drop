@@ -239,6 +239,8 @@ const Home = () => {
           <p className={styles.explain}>
             Claim ERC20 tokens from{' '}
             <span className={styles.pink}>{contractMetadata?.name}</span>
+            <br />
+            Contract address: 0xcc48b6b867e3f7e2A9fc8bEDDDEB462853EF537f
           </p>
         </>
       )}
